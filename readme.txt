@@ -5,3 +5,5 @@ Git has a mutable index called stage
 Git tracks changes
 
 "this is commit by bc-a"
+
+"this is commit by bc-b"
